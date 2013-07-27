@@ -9,7 +9,7 @@ Backends
 * MongoDB (PyMongo)
 
   * PyMongo
-  * Motor
+  * motor
   
 * Redis
 
