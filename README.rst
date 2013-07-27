@@ -7,14 +7,30 @@ Backends
 --------
 
 * MongoDB (PyMongo)
+
   * PyMongo
   * Motor
-* Redis (redis)
-* Redis (tornado-redis)
-* MySQL (MySQLdb)
-* MySQL (adisp)
-* PostgreSQL (psychopg2)
-* PostgreSQL (adisp)
+  
+* Redis
+
+  * redis
+  * tornado-redis
+  
+* MySQL
+
+  * MySQLdb
+  * adisp
+  
+* PostgreSQL
+
+  * psychopg2
+  * adisp 
+
 * Cookies
-* Secure Cookies
-* Encrypted Cookies (tornado-encookie)
+
+  * standard
+  * Secure
+
+* Encrypted Cookies
+
+  * tornado-encookie
