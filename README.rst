@@ -7,7 +7,8 @@ Backends
 --------
 
 * MongoDB (PyMongo)
-* MongoDB (motor)
+  * PyMongo
+  * Motor
 * Redis (redis)
 * Redis (tornado-redis)
 * MySQL (MySQLdb)
